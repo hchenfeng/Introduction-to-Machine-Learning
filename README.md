@@ -1,1 +1,1 @@
-# GVSU-CIS678
+# Course work for introduction to Machine Learning
